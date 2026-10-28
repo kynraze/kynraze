@@ -1,4 +1,17 @@
-## Hi there 👋
+<div align="center">
+
+### Kynraze — Staking Services & Proof-of-Stake Network Validator
+
+![Profile views](https://komarev.com/ghpvc/?username=kynraze&color=7c3aed)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kynraze&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=kynraze&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kynraze&layout=compact&theme=tokyonight&hide_border=true)
+
+[![tenderduty](https://github-readme-stats.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true)](https://github.com/kynraze/tenderduty)
+
+</div>
 
 <!--
 **kynraze/kynraze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
