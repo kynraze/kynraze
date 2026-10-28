@@ -12,7 +12,6 @@
 <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kynraze&theme=tokyonight" alt="Contributions"/>
 
 <img height="170" src="https://github-readme-stats-tau-red-70.vercel.app/api/top-langs/?username=kynraze&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kynraze&theme=tokyonight&utcOffset=7" alt="Commits by hour"/>
 
 <a href="https://github.com/kynraze/tenderduty"><img src="https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true&v=2" alt="tenderduty fork"/></a>
 
