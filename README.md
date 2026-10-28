@@ -2,17 +2,19 @@
 
 ### Kynraze — Staking Services & Proof-of-Stake Network Validator
 
-![Profile views](https://komarev.com/ghpvc/?username=kynraze&color=7c3aed)
+<img src="https://komarev.com/ghpvc/?username=kynraze&color=7c3aed" alt="Profile views"/>
 
-![Stats](https://github-readme-stats-tau-red-70.vercel.app/api?username=kynraze&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=kynraze&theme=tokyonight&hide_border=true)
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kynraze&theme=tokyonight)
+<br/><br/>
 
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kynraze&theme=tokyonight&utcOffset=7)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kynraze&theme=tokyonight)
-![Top languages](https://github-readme-stats-tau-red-70.vercel.app/api/top-langs/?username=kynraze&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats-tau-red-70.vercel.app/api?username=kynraze&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged&theme=tokyonight&hide_border=true" alt="Stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=kynraze&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-[![tenderduty](https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true)](https://github.com/kynraze/tenderduty)
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kynraze&theme=tokyonight" alt="Contributions"/>
+
+<img height="170" src="https://github-readme-stats-tau-red-70.vercel.app/api/top-langs/?username=kynraze&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kynraze&theme=tokyonight&utcOffset=7" alt="Commits by hour"/>
+
+<a href="https://github.com/kynraze/tenderduty"><img src="https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true&v=2" alt="tenderduty"/></a>
 
 </div>
 
