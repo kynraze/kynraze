@@ -9,7 +9,7 @@
 
 ![Top languages](https://github-readme-stats-tau-red-70.vercel.app/api/top-langs/?username=kynraze&layout=compact&theme=tokyonight&hide_border=true)
 
-[![tenderduty Fork wit bunch feature](https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true)](https://github.com/kynraze/tenderduty)
+[![tenderduty](https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true)](https://github.com/kynraze/tenderduty)
 
 </div>
 
