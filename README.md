@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kynraze&color=7c3aed)
 
-![Stats](https://github-readme-stats-tau-red-70.vercel.app/api?username=kynraze&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-tau-red-70.vercel.app/api?username=kynraze&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&theme=tokyonight&hide_border=true)
 ![Streak](https://streak-stats.demolab.com/?user=kynraze&theme=tokyonight&hide_border=true)
 
 ![Top languages](https://github-readme-stats-tau-red-70.vercel.app/api/top-langs/?username=kynraze&layout=compact&theme=tokyonight&hide_border=true)
