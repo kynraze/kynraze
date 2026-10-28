@@ -3,17 +3,15 @@
 ### Kynraze — Staking Services & Proof-of-Stake Network Validator
 
 <img src="https://komarev.com/ghpvc/?username=kynraze&color=7c3aed" alt="Profile views"/>
-
-<br/><br/>
+<br/>
 
 <img height="170" src="https://github-readme-stats-tau-red-70.vercel.app/api?username=kynraze&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged&theme=tokyonight&hide_border=true" alt="Stats"/>
 <img height="170" src="https://streak-stats.demolab.com/?user=kynraze&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kynraze&theme=tokyonight" alt="Contributions"/>
-
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kynraze&theme=tokyonight" alt="Contributions"/>
 <img height="170" src="https://github-readme-stats-tau-red-70.vercel.app/api/top-langs/?username=kynraze&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<a href="https://github.com/kynraze/tenderduty"><img src="https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true&v=3" alt="tenderduty fork"/></a>
+<a href="https://github.com/kynraze/tenderduty"><img height="140" src="https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true&show_owner=true&v=3" alt="tenderduty"/></a>
 
 </div>
 
