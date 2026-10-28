@@ -13,7 +13,7 @@
 
 <img height="170" src="https://github-readme-stats-tau-red-70.vercel.app/api/top-langs/?username=kynraze&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<a href="https://github.com/kynraze/tenderduty"><img src="https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true&v=2" alt="tenderduty fork"/></a>
+<a href="https://github.com/kynraze/tenderduty"><img src="https://github-readme-stats-tau-red-70.vercel.app/api/pin/?username=kynraze&repo=tenderduty&theme=tokyonight&hide_border=true&v=3" alt="tenderduty fork"/></a>
 
 </div>
 
